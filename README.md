@@ -1,4 +1,5 @@
 📚 Beecrowd Java Exercises
+
 Repositório com soluções de exercícios da plataforma Beecrowd, resolvidos na linguagem Java.
 
 🚀 Sobre o repositório
